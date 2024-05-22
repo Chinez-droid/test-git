@@ -1,1 +1,2 @@
 Hello I am test3
+Inputting the 2nd line from master branch
